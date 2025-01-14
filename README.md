@@ -1,0 +1,2 @@
+# ZeroDivisionError in Python Average Calculation
+This repository demonstrates a common Python error: `ZeroDivisionError`.  The `calculate_average` function encounters this error when provided with an empty list. This example shows the error and how to handle it gracefully.
